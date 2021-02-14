@@ -4,5 +4,5 @@ This is my portfolio homework assignment! I made it with love. It has the most c
 
 https://navaughn720.github.io/Navaughn-Portfolio/
 
-![alt text](assets/images/screenshot.png)
+(assets/images/screenshot.png)
 
